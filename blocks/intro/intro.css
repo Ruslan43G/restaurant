@@ -1,0 +1,17 @@
+@import url(./__title/intro__title.css);
+@import url(./__subtitle/intro__subtitle.css);
+@import url(./__offer/intro__offer.css);
+@import url(./__span/intro__span.css);
+@import url(./__vector/intro__vector.css);
+@import url(./__button/intro__button.css);
+@import url();
+
+.intro {
+    height: 740px;
+    width: 80%;
+    margin: 100px auto 0;
+    display: flex;
+    justify-content: top center;
+    align-items: center;
+    flex-direction: column;
+}

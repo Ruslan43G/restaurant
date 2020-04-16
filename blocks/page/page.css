@@ -1,0 +1,10 @@
+.page {
+    max-width: 1440px;
+    margin: 0 auto;
+    font-family: 'montserrat', Arial, sans-serif;
+    padding-top: 25px;
+    background-image: url(../../images/intro/Frame\ 20.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: contain;
+}

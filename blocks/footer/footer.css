@@ -1,0 +1,16 @@
+@import url(./__copyright/footer__copyright.css);
+@import url(./__logo/footer__logo.css);
+@import url(./__author/footer__author.css);
+@import url(./__span-name/footer__span-name.css);
+@import url(./__span-dot/footer__span-dot.css);
+
+
+.footer {
+    margin: -30px auto 0;
+    max-width: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+}

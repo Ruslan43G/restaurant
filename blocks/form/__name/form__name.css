@@ -1,0 +1,16 @@
+.form__name {
+    width: 260px;
+    height: 60px;
+    border-radius: 57px;
+    -webkit-border-radius: 57px;
+    -moz-border-radius: 57px;
+    -ms-border-radius: 57px;
+    -o-border-radius: 57px;
+    border: none;
+    outline: none;
+    text-indent: 30px;
+    ont-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 140%;
+}

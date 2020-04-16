@@ -1,0 +1,11 @@
+.header__nav {
+    width: 300px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+}

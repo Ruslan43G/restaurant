@@ -1,0 +1,20 @@
+.menu__item-buy {
+    border: none;
+    background-color: transparent;
+    background-image: url(../../../images/menu/buy-button.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 33px;
+    width: 33px;
+    outline: none;
+    margin-bottom: 8px;
+}
+
+.menu__item-buy:hover {
+    cursor: pointer;
+    background-image: url(../../../images/menu/buy-button-hover.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 45px;
+    width: 45px;
+}

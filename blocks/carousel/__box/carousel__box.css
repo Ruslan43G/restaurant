@@ -1,0 +1,15 @@
+.carousel__box {
+    width: 660px;
+    height: 360px;
+    border-radius: 15px;
+    background-image: url(../../../images/carousel/instagram.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 10px;
+    left: 400px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}

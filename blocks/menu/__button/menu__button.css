@@ -1,0 +1,23 @@
+.menu__button {
+    width: 135px;
+    height: 55px;
+    background-color: linear-gradient(0deg, #ECEEF6, #ECEEF6), #59AAF1;;
+    border: none;
+    outline: none;
+    border-radius: 45px;
+    -webkit-border-radius: 45px;
+    -moz-border-radius: 45px;
+    -ms-border-radius: 45px;
+    -o-border-radius: 45px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 140%;
+    text-align: center;   
+}
+
+.menu__button:hover {
+    color: white;
+    background-color: #59AAF1;
+    cursor: pointer;
+}

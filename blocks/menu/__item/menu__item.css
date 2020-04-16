@@ -1,0 +1,25 @@
+.menu__item {
+    width: 260px;
+    height: 425.59px;
+    background-image: url(../../../images/menu/Rectangle\ 2.png);
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.menu__item:nth-of-type(5) {
+    margin-top: 10px;
+}
+
+.menu__item:nth-of-type(6) {
+    margin-top: 10px;
+}
+.menu__item:nth-of-type(7) {
+    margin-top: 10px;
+}
+.menu__item:nth-of-type(8) {
+    margin-top: 10px;
+}

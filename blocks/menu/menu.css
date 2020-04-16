@@ -1,0 +1,25 @@
+@import url(./__cart/menu__cart.css);
+@import url(./__title/menu__title.css);
+@import url(./__nav/menu__nav.css);
+@import url(./__button/menu__button.css);
+@import url(./__cards/menu__cards.css);
+@import url(./__item/menu__item.css);
+@import url(./__item-img/menu__item-img.css);
+@import url(./__item-title/menu__item-title.css);
+@import url(./__item-subtitle/menu__item-subtitle.css);
+@import url(./__item-price/menu__item-price.css);
+@import url(./__item-buy/menu__item-buy.css);
+@import url(./__item-hit/menu__item-hit.css);
+@import url(./__more-button/menu__more-button.css);
+
+.menu {
+    width: 100%;
+    background-image: url(../../images/menu/icons.png);
+    margin: auto;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 80px;
+}

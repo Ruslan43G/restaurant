@@ -1,0 +1,14 @@
+.header__link {
+    text-decoration: none;
+    color: black;
+}
+
+.header__link:hover {
+    opacity: 0.6;
+    transition: opacity 1s linear;
+    -webkit-transition: opacity 1s linear;
+    -moz-transition: opacity 1s linear;
+    -ms-transition: opacity 1s linear;
+    -o-transition: opacity 1s linear;
+    text-decoration: underline;
+}

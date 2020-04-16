@@ -1,0 +1,27 @@
+.intro__button {
+    background-color: transparent;
+    background-image: url(../../../images/intro/Group\ 9.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    border: none;
+    width: 45px;
+    height: 45px;
+    outline: none;
+    position: relative;
+    bottom: 30px;
+    left: 180px;
+}
+
+.intro__button:hover {
+    cursor: pointer;
+    transform: scale(1.5, 1.5);
+    -webkit-transform: scale(1.5, 1.5);
+    -moz-transform: scale(1.5, 1.5);
+    -ms-transform: scale(1.5, 1.5);
+    -o-transform: scale(1.5, 1.5);
+    transition: transform 1s linear;
+    -webkit-transition: transform 1s linear;
+    -moz-transition: transform 1s linear;
+    -ms-transition: transform 1s linear;
+    -o-transition: transform 1s linear;
+}

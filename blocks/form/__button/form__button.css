@@ -1,0 +1,19 @@
+.form__button {
+    width: 260px;
+    height: 60px;
+    border: none;
+    background-image: url(../../../images/form/button.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    border-radius: 57px;
+    -webkit-border-radius: 57px;
+    -moz-border-radius: 57px;
+    -ms-border-radius: 57px;
+    -o-border-radius: 57px;
+    outline: none;
+}
+
+.form__button:hover {
+    cursor: pointer;
+    opacity: 0.9;
+}

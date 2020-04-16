@@ -1,0 +1,7 @@
+.menu__item-hit {
+    width: 60px;
+    height: 25px;
+    position: absolute;
+    top: 10px;
+    left: 10px
+}
